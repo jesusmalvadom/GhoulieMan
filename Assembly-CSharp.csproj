@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
+    <Compile Include="Assets\Scripts\SmoothFollow.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/jesusalvarez/Developer/GhoulieMan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
